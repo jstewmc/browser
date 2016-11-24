@@ -24,7 +24,7 @@ That's about it!
 
 ## License
 
-[MIT]()
+[MIT](https://github.com/jstewmc/browser/blob/master/LICENSE)
 
 ## Version
 
